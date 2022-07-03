@@ -4939,3 +4939,21 @@ border-color: transparent #212321 transparent transparent; */
     width: 724px;
   }
 }
+@media (max-width: 421px) {
+  .first-page__box .first-page__txt-arrow {
+    font-size: 17px;
+    max-width: 231px;
+  }
+}
+@media (max-width: 389px) {
+  .first-page__box .first-page__txt-arrow {
+    font-size: 16px;
+    max-width: 213px;
+  }
+  .first-page__box .span__first-page {
+    margin-right: 116px;
+  }
+  .first-page__box .first-page__txt-arrow .span__first-page::after {
+    right: -28px;
+  }
+}
