@@ -757,7 +757,7 @@ body._lock {
 }
 
 .bac1 {
-  background-image: url(../img/ourPoslugi1.png);
+  background-image: url(../img/ourPoslugi2.png);
   background-repeat: no-repeat;
   background-size: 100% 295px;
 }
@@ -810,19 +810,19 @@ body._lock {
 }
 
 .bac3 {
-  background-image: url(../img/ourPoslugi2.png);
+  background-image: url(../img/ourPoslugi1.png);
   background-repeat: no-repeat;
   background-size: 711px 248px;
 }
 
 .bac4 {
-  background-image: url(../img/documentationimg.jpg);
+  background-image: url(../img/3dvisual.jpg);
   background-repeat: no-repeat;
   background-size: 100% 295px;
 }
 
 .bac6 {
-  background-image: url(../img/3dvisual.jpg);
+  background-image: url(../img/documentationimg.jpg);
   background-repeat: no-repeat;
   background-size: 633px 251px;
 }
